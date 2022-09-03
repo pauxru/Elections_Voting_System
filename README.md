@@ -1,0 +1,2 @@
+# Elections_Voting_System
+Personal project that solves the issue of digital/electronic voting that can be implemeted in a country like Kenya. We are just from the 9th August 2022 elections and as a software engineer, I was wondering on how I can solve the issues that plagued the elections. As I listen to the issues raised on election pettion file by Mr.Ondinga who lost the elections to Dr. Ruto, I wrote this program that edge at solving the issue of trust in voting. 
